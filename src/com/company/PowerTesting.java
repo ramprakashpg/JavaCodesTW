@@ -4,7 +4,7 @@ import org.junit.Test;
 
 public class PowerTesting {
     @Test
-    public void OnePower1IsOne() {
+    public void OnePowerOne() {
         assert PowerFinder.Power(1,1) == 1;
     }
 
